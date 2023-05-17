@@ -12,12 +12,8 @@ To get started with using this dataset, follow the steps below:
    This command will download the code and dataset from the GitHub repository to your local machine.
 
 2. Install required Python packages:
-   Make sure you have the necessary Python packages installed to run the code. If any required packages are missing, you can install them using the following command:
-   ```
-   pip install -r requirements.txt
-   ```
-   This command will install all the required packages specified in the `requirements.txt` file.
-
+   Make sure you have the necessary Python packages installed to run the code.
+   
 3. Run the code on Jupyter Notebook:
    Launch Jupyter Notebook on your machine and navigate to the cloned repository. Open the notebook file (usually with a `.ipynb` extension) and run the code cells to perform heart disease prediction based on the provided dataset.
 
