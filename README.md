@@ -18,4 +18,4 @@ To get started with using this dataset, follow the steps below:
    Launch Jupyter Notebook on your machine and navigate to the cloned repository. Open the notebook file (usually with a `.ipynb` extension) and run the code cells to perform heart disease prediction based on the provided dataset.
 
 Paraphrased instructions:
-To use the "Heart-Disease-Prediction" dataset, first, clone the repository from the provided GitHub link. Ensure that you have the required Python packages installed by running the `pip install -r requirements.txt` command. Finally, open the code in Jupyter Notebook and execute the cells to perform heart disease prediction using the dataset.
+To use the "Heart-Disease-Prediction" dataset, first, clone the repository from the provided GitHub link. Ensure that you have the required Python packages installed. Finally, open the code in Jupyter Notebook and execute the cells to perform heart disease prediction using the dataset.
